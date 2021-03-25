@@ -16,13 +16,10 @@
 
 .main{
     height: 500px;
-    
-    z-index: 1;
-    
+    background-image: url(https://illust-stock.com/wp-content/uploads/heart-lightblue-400x400.png);
 }
 
 .box{
-    z-index: 2;
     list-style: none;
     font-size: 20px;
     font-weight: bold;
