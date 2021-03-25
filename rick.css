@@ -47,6 +47,7 @@
 @media(max-width: 670px){
     .rick{
         width: 30%;
+        float: left;
     }
     .header h1{
         width: 30%;
