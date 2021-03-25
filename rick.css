@@ -43,6 +43,15 @@
     background-color: rgb(255, 243, 188);
 }
 
+.main p{
+    text-align: left;
+    color: blue;
+    font-size: 25px;
+    margin-left: 200px;
+    font-weight: bold;
+}
+
+
 @media(max-width: 1000px){
     .rick{
         height: 80%;
@@ -65,10 +74,3 @@
     }
 }
 
-.main p{
-    text-align: left;
-    color: blue;
-    font-size: 25px;
-    margin-left: 200px;
-    font-weight: bold;
-}
