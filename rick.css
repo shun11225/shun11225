@@ -18,22 +18,21 @@
 
 .box{
     list-style: none;
-    font-size: 30px;
+    font-size: 23px;
     font-weight: bold;
     border-top: solid 6px #adedf1;
     margin: 2em auto;
     padding: 1em;
-    width: 90%;
-    box-shadow: 2px 2px 4px rgb(68, 64, 64);
-    width: 30%; 
+    width: 35%;
+    box-shadow: 2px 2px 4px rgb(68, 64, 64); 
     float: left;
     background-color: rgb(256, 256, 210);
-    margin-left: 300px;
+    margin-left: 50px;
     }
 
 
-.rick{
-    width: 600px;
+.main img{
+    width: 500px;
     text-align: right;
     margin-left: 200px;
     margin-top: 40px;
