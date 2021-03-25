@@ -41,9 +41,10 @@
 
 @media(max-width: 1000px){
     .rick{
-        width: 100%;
+        height: 100%;
+        margin: 0 auto;
+
     }
-}
 
 @media(max-width: 670px){
     .rick{
@@ -51,6 +52,6 @@
     }
     .header h1{
         height: 100%;
-        font-size: 20px;
+        font-size: 30px;
     }
 }
