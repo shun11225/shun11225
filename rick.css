@@ -29,14 +29,16 @@
     width: 90%;
     box-shadow: 2px 2px 4px rgb(68, 64, 64);
     width: 30%; 
-    float: left;
+    float: right;
     background-color: rgb(250, 250, 220);
+    margin-right: 400px;
     }
 
 
 .rick{
-    width: 700px;
-    float: right;
+    width: 600px;
+    text-align: left;
+    margin-left: 200px;
 }
 
 .footer{
@@ -60,4 +62,8 @@
     .box{ 
         width: 100vw;
     }
+}
+
+.article{
+    text-align: left;
 }
