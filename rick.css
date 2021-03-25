@@ -14,13 +14,13 @@
 }
 
 .main{
-    height: 600px;
+    height: 650px;
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPO4_JGQUDyZSAamxG6tXqRMXwH7mFkH54psryGUTzKwjbTLr390H0oTUQvv8DCCCwCVI&usqp=CAU);
 }
 
 .box{
     list-style: none;
-    font-size: 20px;
+    font-size: 30px;
     font-weight: bold;
     border-top: solid 6px #50dae4;
     margin: 2em auto;
@@ -66,9 +66,9 @@
 }
 
 .main p{
-    text-align: center;
-}
-
-.article p{
+    text-align: left;
     color: blue;
+    font-size: 25px;
+    margin-left: 200px;
+    font-weight: bold;
 }
