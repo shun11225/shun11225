@@ -48,10 +48,10 @@
 
 @media(max-width: 670px){
     .rick{
-        float: left;
+        text-align: center;
+        width: 50%;
     }
     .header h1{
-        height: 100%;
         font-size: 30px;
     }
 }
