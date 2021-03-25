@@ -24,13 +24,18 @@
     font-size: 20px;
     font-weight: bold;
     border-top: solid 6px #1dc1d6;
-    border
-    box-shadow:  0 3px 4px rgba(0,0,0.32,);
+    margin: 2em auto;
+    padding: 1em;
+    width: 90%;
+    box-shadow: 2px 2px 4px rgb(68, 64, 64);
+    width: 30%; 
+    float: left;
+    background-color: rgb(250, 250, 220);
     }
 
 
 .rick{
-    height: 400px;
+    width: 700px;
     float: right;
 }
 
@@ -42,14 +47,12 @@
 @media(max-width: 1000px){
     .rick{
         height: 100%;
-        margin: 0 auto;
-
-    }
+     }
 
 @media(max-width: 670px){
     .rick{
         text-align: center;
-        height: 100px;
+        width: 100vm;
     }
     .header h1{
         font-size: 30px;
