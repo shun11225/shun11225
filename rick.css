@@ -37,3 +37,18 @@
     height: 80px;
     background-color: cyan;
 }
+
+@media(max-width: 1000px){
+    .rick{
+        width: 80%;
+    }
+}
+
+@media(max-width: 670px){
+    .rick{
+        width: 30%;
+    }
+    .header h1{
+        width: 30%;
+    }
+}
