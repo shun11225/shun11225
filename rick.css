@@ -59,6 +59,15 @@
 }
 
 @media(max-width: 670px){
+    .header{
+        height: 60px;
+        width: 100%;
+    }
+
+    .main{
+        height: 400px;
+        width: 100%;
+    }
     .rick{
         text-align: center;
         width: 60vm;
@@ -67,10 +76,12 @@
         font-size: 20px;
     }
     .box{ 
-        width: 100vw;
+        width: 300px;
+        font-size: 20px;
     }
     .main p{
         font-size: 15px;
+        width: 400px;
     }
 }
 
