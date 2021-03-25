@@ -1,1 +1,39 @@
+.header{
+    height: 80px;
+    background-color: blanchedalmond;
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+}
+.header h1{
+    vertical-align: middle;
+    padding-bottom: 10px;
+}
 
+.main{
+    height: 500px;
+    
+    z-index: 1;
+    
+}
+
+.box{
+    z-index: 2;
+    list-style: none;
+    font-size: 20px;
+    font-weight: bold;
+    border-top: solid 6px #1dc1d6;
+    border
+    box-shadow:  0 3px 4px rgba(0,0,0.32,);
+    }
+
+
+.rick{
+    height: 400px;
+    float: right;
+}
+
+.footer{
+    height: 80px;
+    background-color: cyan;
+}
