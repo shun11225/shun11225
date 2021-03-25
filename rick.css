@@ -74,7 +74,7 @@
     }
     .rick img{
         float: left;
-        width: 400px;
+        width: 350px;
         margin-left: 0px;
         margin-top: 10px;
     }
@@ -88,9 +88,8 @@
     }
     .aaa p{
         font-size: 15px;
-        width: 400px;
+        width: 350px;
         margin-left: 0px;
         margin-top: 0px;
     }
 }
-
