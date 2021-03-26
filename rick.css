@@ -8,13 +8,20 @@
     text-align: center;
     padding: 5px;
     font-size: 25px;
+    letter-spacing: 15px;
+}
+h1{
+    background-color: rgba(236, 236, 245,0.5);
+    width: 700px;
 }
 
 
 .main{
     height: 600px;
     background-image: url(https://cdn.shopify.com/s/files/1/0285/3217/9075/products/Snipaste_2020-04-28_15-20-20_530x@2x.png?v=1591860384);
+    background-size: cover;
 }
+
 
 .box{
     list-style: none;
@@ -23,7 +30,7 @@
     border-top: solid 6px #cc9b07;
     margin: 2em auto;
     padding: 1em;
-    width: 35%;
+    width: 450px;
     box-shadow: 2px 2px 4px rgb(68, 64, 64); 
     float: left;
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPO4_JGQUDyZSAamxG6tXqRMXwH7mFkH54psryGUTzKwjbTLr390H0oTUQvv8DCCCwCVI&usqp=CAU);
@@ -32,8 +39,8 @@
 
 
 .rick img{
-    width: 500px;
-    margin-left: 100px;
+    width: 40%;
+    margin-left: 80px;
     margin-top: 30px;
     overflow: hidden;
 }
@@ -77,15 +84,14 @@
     }
 
     .box{ 
-        width: 350px;
+        width: 400px;
         height: 200px;
         font-size: 18px;
-        margin-left: auto;
     }
 
     .rick img{
         float: left;
-        width: 350px;
+        width: 90%px;
         margin-left: 0px;
         margin-top: 10px;
     }
@@ -93,8 +99,8 @@
     .aaa h6{
         font-size: 15px;
         margin-left: 0px;
-        margin-top: 650px;
-    }
+        margin-top: 10px;
+     }
 
       
 }
@@ -104,6 +110,7 @@
         height: 60px;
         width: 100%;
         margin-left: 0;
+        letter-spacing: 10px;
     }
 
     .main{
@@ -133,7 +140,9 @@
         height: 100px;
         width: 330px;
         margin-left: 10px;
-        margin-top: 550px;
-        }
+        margin-top: 50px;
+   
+       
+    }
 }
 
