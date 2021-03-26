@@ -12,7 +12,7 @@
 
 
 .main{
-    height: 650px;
+    height: 600px;
     background-image: url(https://cdn.shopify.com/s/files/1/0285/3217/9075/products/Snipaste_2020-04-28_15-20-20_530x@2x.png?v=1591860384);
 }
 
@@ -56,6 +56,10 @@
     overflow: hidden;
 }
 
+.footer{
+    margin: 0px;
+}
+
 
 @media(max-width: 1000px){
     .header{
@@ -81,7 +85,7 @@
 
     .rick img{
         float: left;
-        width: 400px;
+        width: 350px;
         margin-left: 0px;
         margin-top: 10px;
     }
@@ -92,10 +96,7 @@
         margin-top: 650px;
     }
 
-    .footer{
-        
-    }
-    
+      
 }
 
 @media(max-width: 670px){
@@ -119,7 +120,7 @@
     
     .rick img{
         float: left;
-        width: 350px;
+        width: 330px;
         margin-left: 10px;
         margin-top: 10px;
     }
@@ -130,7 +131,7 @@
     .aaa h6{
         font-size: 12px;
         height: 100px;
-        width: 350px;
+        width: 330px;
         margin-left: 10px;
         margin-top: 550px;
         }
